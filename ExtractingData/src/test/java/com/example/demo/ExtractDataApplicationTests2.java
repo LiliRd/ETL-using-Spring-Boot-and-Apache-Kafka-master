@@ -9,5 +9,6 @@ public class ExtractDataApplicationTests2 {
 
     @Test
     void contextLoads33() {
+        System.out.println("check remote github");
     }
 }
