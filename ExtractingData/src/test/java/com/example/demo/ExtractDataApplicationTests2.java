@@ -4,11 +4,15 @@ package com.example.demo;
 public class ExtractDataApplicationTests2 {
     @Test
     void contextLoads() {
-        System.out.println("our changes in master");
     }
 
     @Test
     void contextLoads33() {
-        System.out.println("check remote github");
+        System.out.println("make new changes");
+    }
+
+    @Test
+    void contextLoadsMaster() {
+        System.out.println("make new changes 4");
     }
 }
