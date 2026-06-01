@@ -4,6 +4,7 @@ package com.example.demo;
 public class ExtractDataApplicationTests2 {
     @Test
     void contextLoads() {
+        System.out.println("our changes in master");
     }
 
     @Test
