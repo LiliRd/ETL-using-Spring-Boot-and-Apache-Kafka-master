@@ -15,4 +15,9 @@ public class ExtractDataApplicationTests2 {
     void contextLoadsMaster() {
         System.out.println("make new changes 4");
     }
+
+    @Test
+    void contextLoadsDev() {
+        System.out.println("make new changes 5");
+    }
 }
